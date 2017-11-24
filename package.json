@@ -1,0 +1,24 @@
+{
+  "name": "npm-text-lzfj",
+  "version": "1.0.2",
+  "description": "npm publish test",
+  "main": "hello_freedom.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rimushi/npm-text-lzfj.git"
+  },
+  "keywords": [
+    "npm",
+    "test",
+    "publish"
+  ],
+  "author": "rimushi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rimushi/npm-text-lzfj/issues"
+  },
+  "homepage": "https://github.com/rimushi/npm-text-lzfj#readme"
+}
